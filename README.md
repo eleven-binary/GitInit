@@ -7,3 +7,7 @@ Open an issue to reach the maintainers.
 ## License
 
 This project is available for learning purposes.
+
+## Contributors
+
+Contributions are welcome through pull requests.
