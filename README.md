@@ -26,3 +26,9 @@ Run `go test ./...` from the repository root.
 
 Tests run with go test ./...
 
+## Status
+
+Stable.
+
+Status is reviewed monthly.
+
