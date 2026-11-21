@@ -16,3 +16,8 @@ Contributions are welcome through pull requests.
 
 Run the examples from the repository root.
 
+
+## usage examples
+
+Placeholder examples.
+
