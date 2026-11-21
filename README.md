@@ -18,3 +18,7 @@ Maintained by the community.
 
 Run the examples from the repository root.
 
+## Testing
+
+Run `go test ./...` from the repository root.
+
