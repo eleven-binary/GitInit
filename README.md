@@ -22,3 +22,5 @@ Run the examples from the repository root.
 
 Run `go test ./...` from the repository root.
 
+Tests run with go test ./...
+
