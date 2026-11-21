@@ -16,3 +16,7 @@ Contributions are welcome through pull requests.
 
 Run the examples from the repository root.
 
+## Testing
+
+Tests run with go test ./...
+
