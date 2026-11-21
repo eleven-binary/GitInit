@@ -8,6 +8,8 @@ Open an issue to reach the maintainers.
 
 This project is available for learning purposes.
 
+Licensed for learning use only
+
 ## Contributors
 
 Contributions are welcome through pull requests.
