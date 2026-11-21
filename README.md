@@ -30,3 +30,5 @@ Tests run with go test ./...
 
 Stable.
 
+Status is reviewed monthly.
+
