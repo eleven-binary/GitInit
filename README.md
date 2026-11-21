@@ -12,6 +12,8 @@ This project is available for learning purposes.
 
 Contributions are welcome through pull requests.
 
+Maintained by the community.
+
 ## usage
 
 Run the examples from the repository root.
