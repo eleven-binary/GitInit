@@ -11,3 +11,8 @@ This project is available for learning purposes.
 ## Contributors
 
 Contributions are welcome through pull requests.
+
+## usage
+
+Run the examples from the repository root.
+
